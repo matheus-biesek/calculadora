@@ -1,0 +1,97 @@
+C:\Users\mdbie\source\repos\atividade_6\atividade_6\bin\Debug\atividade_6.exe.config
+C:\Users\mdbie\source\repos\atividade_6\atividade_6\bin\Debug\atividade_6.exe
+C:\Users\mdbie\source\repos\atividade_6\atividade_6\bin\Debug\atividade_6.pdb
+C:\Users\mdbie\source\repos\atividade_6\atividade_6\obj\Debug\atividade_6.csproj.AssemblyReference.cache
+C:\Users\mdbie\source\repos\atividade_6\atividade_6\obj\Debug\atividade_6.Form1.resources
+C:\Users\mdbie\source\repos\atividade_6\atividade_6\obj\Debug\atividade_6.Properties.Resources.resources
+C:\Users\mdbie\source\repos\atividade_6\atividade_6\obj\Debug\atividade_6.csproj.GenerateResource.cache
+C:\Users\mdbie\source\repos\atividade_6\atividade_6\obj\Debug\atividade_6.csproj.CoreCompileInputs.cache
+C:\Users\mdbie\source\repos\atividade_6\atividade_6\obj\Debug\atividade_6.exe
+C:\Users\mdbie\source\repos\atividade_6\atividade_6\obj\Debug\atividade_6.pdb
+C:\Users\mdbie\OneDrive\Área de Trabalho\c_sharp\atividade_6\atividade_6\bin\Debug\atividade_6.exe.config
+C:\Users\mdbie\OneDrive\Área de Trabalho\c_sharp\atividade_6\atividade_6\bin\Debug\atividade_6.exe
+C:\Users\mdbie\OneDrive\Área de Trabalho\c_sharp\atividade_6\atividade_6\bin\Debug\atividade_6.pdb
+C:\Users\mdbie\OneDrive\Área de Trabalho\c_sharp\atividade_6\atividade_6\obj\Debug\atividade_6.csproj.AssemblyReference.cache
+C:\Users\mdbie\OneDrive\Área de Trabalho\c_sharp\atividade_6\atividade_6\obj\Debug\atividade_6.Form1.resources
+C:\Users\mdbie\OneDrive\Área de Trabalho\c_sharp\atividade_6\atividade_6\obj\Debug\atividade_6.Properties.Resources.resources
+C:\Users\mdbie\OneDrive\Área de Trabalho\c_sharp\atividade_6\atividade_6\obj\Debug\atividade_6.csproj.GenerateResource.cache
+C:\Users\mdbie\OneDrive\Área de Trabalho\c_sharp\atividade_6\atividade_6\obj\Debug\atividade_6.csproj.CoreCompileInputs.cache
+C:\Users\mdbie\OneDrive\Área de Trabalho\c_sharp\atividade_6\atividade_6\obj\Debug\atividade_6.exe
+C:\Users\mdbie\OneDrive\Área de Trabalho\c_sharp\atividade_6\atividade_6\obj\Debug\atividade_6.pdb
+C:\Users\mdbie\OneDrive\Documents\estudos\unibrasil\1_bimestre\fundamentos\c_sharp\atividade_6\atividade_6\obj\Debug\atividade_6.csproj.AssemblyReference.cache
+C:\Users\mdbie\OneDrive\Documents\estudos\unibrasil\1_bimestre\fundamentos\c_sharp\atividade_6\atividade_6\obj\Debug\atividade_6.Form1.resources
+C:\Users\mdbie\OneDrive\Documents\estudos\unibrasil\1_bimestre\fundamentos\c_sharp\atividade_6\atividade_6\obj\Debug\atividade_6.Properties.Resources.resources
+C:\Users\mdbie\OneDrive\Documents\estudos\unibrasil\1_bimestre\fundamentos\c_sharp\atividade_6\atividade_6\obj\Debug\atividade_6.csproj.GenerateResource.cache
+C:\Users\mdbie\OneDrive\Documents\estudos\unibrasil\1_bimestre\fundamentos\c_sharp\atividade_6\atividade_6\obj\Debug\atividade_6.csproj.CoreCompileInputs.cache
+C:\Users\mdbie\OneDrive\Documents\estudos\unibrasil\1_bimestre\fundamentos\c_sharp\atividade_6\atividade_6\obj\Debug\atividade_6.exe
+C:\Users\mdbie\OneDrive\Documents\estudos\unibrasil\1_bimestre\fundamentos\c_sharp\atividade_6\atividade_6\obj\Debug\atividade_6.pdb
+C:\Users\mdbie\OneDrive\Área de Trabalho\atividade_6 - Copia (2)\atividade_6\bin\Debug\atividade_6.exe.config
+C:\Users\mdbie\OneDrive\Área de Trabalho\atividade_6 - Copia (2)\atividade_6\bin\Debug\atividade_6.exe
+C:\Users\mdbie\OneDrive\Área de Trabalho\atividade_6 - Copia (2)\atividade_6\bin\Debug\atividade_6.pdb
+C:\Users\mdbie\OneDrive\Área de Trabalho\atividade_6 - Copia (2)\atividade_6\obj\Debug\atividade_6.csproj.AssemblyReference.cache
+C:\Users\mdbie\OneDrive\Área de Trabalho\atividade_6 - Copia (2)\atividade_6\obj\Debug\atividade_6.Form1.resources
+C:\Users\mdbie\OneDrive\Área de Trabalho\atividade_6 - Copia (2)\atividade_6\obj\Debug\atividade_6.Properties.Resources.resources
+C:\Users\mdbie\OneDrive\Área de Trabalho\atividade_6 - Copia (2)\atividade_6\obj\Debug\atividade_6.csproj.GenerateResource.cache
+C:\Users\mdbie\OneDrive\Área de Trabalho\atividade_6 - Copia (2)\atividade_6\obj\Debug\atividade_6.csproj.CoreCompileInputs.cache
+C:\Users\mdbie\OneDrive\Área de Trabalho\atividade_6 - Copia (2)\atividade_6\obj\Debug\atividade_6.exe
+C:\Users\mdbie\OneDrive\Área de Trabalho\atividade_6 - Copia (2)\atividade_6\obj\Debug\atividade_6.pdb
+C:\Users\mdbie\Documents\trabalhos\1_periodo\fundamentos_programacao\2_bimestre\atividade_6 - official\atividade_6\bin\Debug\atividade_6.exe.config
+C:\Users\mdbie\Documents\trabalhos\1_periodo\fundamentos_programacao\2_bimestre\atividade_6 - official\atividade_6\bin\Debug\atividade_6.exe
+C:\Users\mdbie\Documents\trabalhos\1_periodo\fundamentos_programacao\2_bimestre\atividade_6 - official\atividade_6\bin\Debug\atividade_6.pdb
+C:\Users\mdbie\Documents\trabalhos\1_periodo\fundamentos_programacao\2_bimestre\atividade_6 - official\atividade_6\obj\Debug\atividade_6.csproj.AssemblyReference.cache
+C:\Users\mdbie\Documents\trabalhos\1_periodo\fundamentos_programacao\2_bimestre\atividade_6 - official\atividade_6\obj\Debug\atividade_6.Form1.resources
+C:\Users\mdbie\Documents\trabalhos\1_periodo\fundamentos_programacao\2_bimestre\atividade_6 - official\atividade_6\obj\Debug\atividade_6.Properties.Resources.resources
+C:\Users\mdbie\Documents\trabalhos\1_periodo\fundamentos_programacao\2_bimestre\atividade_6 - official\atividade_6\obj\Debug\atividade_6.csproj.GenerateResource.cache
+C:\Users\mdbie\Documents\trabalhos\1_periodo\fundamentos_programacao\2_bimestre\atividade_6 - official\atividade_6\obj\Debug\atividade_6.csproj.CoreCompileInputs.cache
+C:\Users\mdbie\Documents\trabalhos\1_periodo\fundamentos_programacao\2_bimestre\atividade_6 - official\atividade_6\obj\Debug\atividade_6.exe
+C:\Users\mdbie\Documents\trabalhos\1_periodo\fundamentos_programacao\2_bimestre\atividade_6 - official\atividade_6\obj\Debug\atividade_6.pdb
+C:\Users\mdbie\source\repos\atividade_6 - official\atividade_6\bin\Debug\atividade_6.exe.config
+C:\Users\mdbie\source\repos\atividade_6 - official\atividade_6\bin\Debug\atividade_6.exe
+C:\Users\mdbie\source\repos\atividade_6 - official\atividade_6\bin\Debug\atividade_6.pdb
+C:\Users\mdbie\source\repos\atividade_6 - official\atividade_6\obj\Debug\atividade_6.csproj.AssemblyReference.cache
+C:\Users\mdbie\source\repos\atividade_6 - official\atividade_6\obj\Debug\atividade_6.Form1.resources
+C:\Users\mdbie\source\repos\atividade_6 - official\atividade_6\obj\Debug\atividade_6.Properties.Resources.resources
+C:\Users\mdbie\source\repos\atividade_6 - official\atividade_6\obj\Debug\atividade_6.csproj.GenerateResource.cache
+C:\Users\mdbie\source\repos\atividade_6 - official\atividade_6\obj\Debug\atividade_6.csproj.CoreCompileInputs.cache
+C:\Users\mdbie\source\repos\atividade_6 - official\atividade_6\obj\Debug\atividade_6.exe
+C:\Users\mdbie\source\repos\atividade_6 - official\atividade_6\obj\Debug\atividade_6.pdb
+C:\Users\mdbie\OneDrive\Área de Trabalho\atividade_6 - andre\atividade_6\bin\Debug\atividade_6.exe.config
+C:\Users\mdbie\OneDrive\Área de Trabalho\atividade_6 - andre\atividade_6\bin\Debug\atividade_6.exe
+C:\Users\mdbie\OneDrive\Área de Trabalho\atividade_6 - andre\atividade_6\bin\Debug\atividade_6.pdb
+C:\Users\mdbie\OneDrive\Área de Trabalho\atividade_6 - andre\atividade_6\obj\Debug\atividade_6.csproj.AssemblyReference.cache
+C:\Users\mdbie\OneDrive\Área de Trabalho\atividade_6 - andre\atividade_6\obj\Debug\atividade_6.Form1.resources
+C:\Users\mdbie\OneDrive\Área de Trabalho\atividade_6 - andre\atividade_6\obj\Debug\atividade_6.Properties.Resources.resources
+C:\Users\mdbie\OneDrive\Área de Trabalho\atividade_6 - andre\atividade_6\obj\Debug\atividade_6.csproj.GenerateResource.cache
+C:\Users\mdbie\OneDrive\Área de Trabalho\atividade_6 - andre\atividade_6\obj\Debug\atividade_6.csproj.CoreCompileInputs.cache
+C:\Users\mdbie\OneDrive\Área de Trabalho\atividade_6 - andre\atividade_6\obj\Debug\atividade_6.exe
+C:\Users\mdbie\OneDrive\Área de Trabalho\atividade_6 - andre\atividade_6\obj\Debug\atividade_6.pdb
+C:\Users\mdbie\OneDrive\Área de Trabalho\atividade_6 - biesek\atividade_6\bin\Debug\atividade_6.exe.config
+C:\Users\mdbie\OneDrive\Área de Trabalho\atividade_6 - biesek\atividade_6\bin\Debug\atividade_6.exe
+C:\Users\mdbie\OneDrive\Área de Trabalho\atividade_6 - biesek\atividade_6\bin\Debug\atividade_6.pdb
+C:\Users\mdbie\OneDrive\Área de Trabalho\atividade_6 - biesek\atividade_6\obj\Debug\atividade_6.csproj.AssemblyReference.cache
+C:\Users\mdbie\OneDrive\Área de Trabalho\atividade_6 - biesek\atividade_6\obj\Debug\atividade_6.Form1.resources
+C:\Users\mdbie\OneDrive\Área de Trabalho\atividade_6 - biesek\atividade_6\obj\Debug\atividade_6.Properties.Resources.resources
+C:\Users\mdbie\OneDrive\Área de Trabalho\atividade_6 - biesek\atividade_6\obj\Debug\atividade_6.csproj.GenerateResource.cache
+C:\Users\mdbie\OneDrive\Área de Trabalho\atividade_6 - biesek\atividade_6\obj\Debug\atividade_6.csproj.CoreCompileInputs.cache
+C:\Users\mdbie\OneDrive\Área de Trabalho\atividade_6 - biesek\atividade_6\obj\Debug\atividade_6.exe
+C:\Users\mdbie\OneDrive\Área de Trabalho\atividade_6 - biesek\atividade_6\obj\Debug\atividade_6.pdb
+C:\Users\mdbie\source\repos\atividade_6 - biesek\atividade_6\bin\Debug\atividade_6.exe.config
+C:\Users\mdbie\source\repos\atividade_6 - biesek\atividade_6\bin\Debug\atividade_6.exe
+C:\Users\mdbie\source\repos\atividade_6 - biesek\atividade_6\bin\Debug\atividade_6.pdb
+C:\Users\mdbie\source\repos\atividade_6 - biesek\atividade_6\obj\Debug\atividade_6.csproj.AssemblyReference.cache
+C:\Users\mdbie\source\repos\atividade_6 - biesek\atividade_6\obj\Debug\atividade_6.Form1.resources
+C:\Users\mdbie\source\repos\atividade_6 - biesek\atividade_6\obj\Debug\atividade_6.Properties.Resources.resources
+C:\Users\mdbie\source\repos\atividade_6 - biesek\atividade_6\obj\Debug\atividade_6.csproj.GenerateResource.cache
+C:\Users\mdbie\source\repos\atividade_6 - biesek\atividade_6\obj\Debug\atividade_6.csproj.CoreCompileInputs.cache
+C:\Users\mdbie\source\repos\atividade_6 - biesek\atividade_6\obj\Debug\atividade_6.exe
+C:\Users\mdbie\source\repos\atividade_6 - biesek\atividade_6\obj\Debug\atividade_6.pdb
+C:\Users\mdbie\source\repos\atividade_6 - biesek - final\atividade_6\bin\Debug\atividade_6.exe.config
+C:\Users\mdbie\source\repos\atividade_6 - biesek - final\atividade_6\bin\Debug\atividade_6.exe
+C:\Users\mdbie\source\repos\atividade_6 - biesek - final\atividade_6\bin\Debug\atividade_6.pdb
+C:\Users\mdbie\source\repos\atividade_6 - biesek - final\atividade_6\obj\Debug\atividade_6.csproj.AssemblyReference.cache
+C:\Users\mdbie\source\repos\atividade_6 - biesek - final\atividade_6\obj\Debug\atividade_6.Form1.resources
+C:\Users\mdbie\source\repos\atividade_6 - biesek - final\atividade_6\obj\Debug\atividade_6.Properties.Resources.resources
+C:\Users\mdbie\source\repos\atividade_6 - biesek - final\atividade_6\obj\Debug\atividade_6.csproj.GenerateResource.cache
+C:\Users\mdbie\source\repos\atividade_6 - biesek - final\atividade_6\obj\Debug\atividade_6.csproj.CoreCompileInputs.cache
+C:\Users\mdbie\source\repos\atividade_6 - biesek - final\atividade_6\obj\Debug\atividade_6.exe
+C:\Users\mdbie\source\repos\atividade_6 - biesek - final\atividade_6\obj\Debug\atividade_6.pdb
